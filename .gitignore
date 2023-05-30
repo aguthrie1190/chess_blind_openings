@@ -1,0 +1,8 @@
+_notes/
+.vscode/
+venv/
+__pycache__
+
+renders/BoardVisualisedFromPGN.svg
+pgn/white_games.pgn
+pgn/black_games.pgn
